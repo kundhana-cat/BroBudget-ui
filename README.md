@@ -561,7 +561,7 @@ The final implementation combines familiar financial dashboard concepts with our
 # 🔗 Repository
 
 **GitHub Repository:**
-https://github.com/harshavardhan-1706/BroBudget-ui
+https://github.com/kundhana-cat/BroBudget-ui
 
 ---
 
